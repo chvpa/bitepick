@@ -1,13 +1,13 @@
 import React from "react";
 
-const home = () => {
+const works = () => {
   return (
     <div>
       <h1>
-        Index<sup>(01)</sup>
+        Trabajos<sup>(03)</sup>
       </h1>
     </div>
   );
 };
 
-export default home;
+export default works;
